@@ -7,7 +7,7 @@ This repository contains the code in regards to the the creation of an online ap
 - Creation of arguments and attacks
 - Handling of preferences to compute normal and reverse attacks
 
-We built a UI using streamlit with documentation on how to use the generator which we deployed on [Render](https://aba-generator-yyux.onrender.com)
+We built a UI using streamlit with documentation on how to use the generator which we deployed on [Render](https://aba-generator-is8i.onrender.com/)
 
 ![Image](https://i.ibb.co/fGjgy4Q/image.png)
 
